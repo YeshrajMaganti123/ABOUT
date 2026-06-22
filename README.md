@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,3,2&height=240&section=header&text=Yeshraj%20Maganti&fontSize=56&fontColor=f5f1ea&fontAlignY=42&desc=AI%20%26%20Data%20Systems%20Architect%20%E2%80%94%20Researcher%20%E2%80%94%20Founder&descAlignY=62&descColor=c4974a&animation=scaleIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b1a1a&height=230&section=header&text=Yeshraj%20Maganti&fontSize=56&fontColor=f5f1ea&fontAlignY=42&desc=AI%20and%20Data%20Systems%20Architect%20%7C%20Researcher%20%7C%20Founder&descAlignY=62&descColor=c4974a" width="100%"/>
 
 </div>
 
@@ -512,6 +512,6 @@ Large-scale sentiment classification pipeline on user-generated video platform c
 ══════════════════════════════════════════════════════════════════════
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,3,2&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b1a1a&height=130&section=footer" width="100%"/>
 
 </div>
